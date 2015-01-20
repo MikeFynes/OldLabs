@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab8</string>
+    <string name="maintxt1">What to do with Joe Dalton?</string>
+    <string name="btntxt1">Ask the decision</string>
+    <string name="btntxt2">Send to prison</string>
+    <string name="btntxt3">Release him</string>
+    <string name="act1">Main Activity</string>
+
+</resources>

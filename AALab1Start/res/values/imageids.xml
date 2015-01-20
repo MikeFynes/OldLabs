@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="imgs">
+        <item>@drawable/borderterrier</item>
+        <item>@drawable/alaskanmalamute</item>
+        <item>@drawable/finnishspitz</item>
+        <item>@drawable/portuguesewaterdog</item>
+        <item>@drawable/rottweiler</item>
+        <item>@drawable/beagle</item>
+        <item>@drawable/greyhound</item>
+        <item>@drawable/dachshund</item>
+    </array>
+</resources>

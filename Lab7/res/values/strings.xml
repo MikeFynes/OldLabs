@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab5</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">Lab5</string>
+	<string name="captured">Joe Dalton</string>
+	<string name="gangTitle">Leader of the gang</string>
+	<string name="prison">Send to Prison</string>
+	<string name="release">Release</string>
+	<string name="alerttxt">Make a decision!</string>
+	<string name="alok">OK!</string>
+	<string name="alcancel">No</string>
+	<string name="decisionPrison">Should we send him to prison?</string>
+	<string name="decisionRelease">Should we release him?</string>
+	<string name="releaseReply">was released</string>
+	<string name="prisonReply">was sent to prison</string>
+	<string name="releaseReplyCancel">was not released</string>
+	<string name="prisonReplyCancel">was not sent to prison</string>
+</resources>

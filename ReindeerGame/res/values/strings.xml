@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ReindeerGame</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="textView">Holy batman pancake</string>
+    <string name="btnMove">Move</string>
+    <string name="btnEat">Eat</string>
+    <string name="btnKick">Kick</string>
+    <string name="btnRestart">Restart</string>
+    <string name="textDistance">Distance</string>
+    <string name="textAmmo">Ammo</string>
+    <string name="textWolf">Wolf</string>
+    
+
+</resources>

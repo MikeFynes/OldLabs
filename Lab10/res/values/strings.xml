@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab2</string>
+    <string name="t1">Joe Dalton</string>
+    <string name="t2">Leader of the Gang</string>
+    <string name="b1">Sent to prison</string>
+    <string name="b2">Released</string>
+    <string name="prison">Prison</string>
+    <string name="release">Release</string>
+     <string name="reset">Reset</string>
+    <string name="txtRelease">Num of releases</string>
+	<string name="txtPrison">Num of imprisonments</string>
+</resources>

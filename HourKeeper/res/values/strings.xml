@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HourKeeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="userName"></string>
+    <string name="btnStart">Start</string>
+    <string name="btnStop">Stop</string>
+    <string name="btnPrevious">Previous Work</string>
+    <string name="btnBack">Back</string>
+    <string name="btnClear">Clear Database</string>
+	<string name="hoursWorked">Started work</string>
+	<string name="lastWorked">Finished work</string>
+	<string name="totalHours">Total hours worked</string>
+	
+	<string name="colID">ID</string>
+	<string name="colName">User</string>
+	<string name="colStart">Start</string>
+	<string name="colStop">Stop</string>
+	<string name="colTotal">Total Time</string>
+	
+	
+	
+	<string name="confirmClear">This will clear the entire database are you sure?</string>
+	<string name="alok">Yes</string>
+	<string name="alcancel">No</string>
+	
+</resources>

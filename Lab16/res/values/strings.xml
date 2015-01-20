@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab16</string>
+    <string name="action_settings">Settings</string>
+    <string name="showSource">Source goes here</string>
+    <string name="getSource">Get me www.google.com source</string>
+     <string name="clear">Reset</string>
+     <string name="txtReset">Source code has been reset</string>
+
+</resources>

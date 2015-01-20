@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Lab2</string>
+    <string name="t1">Joe Dalton</string>
+    <string name="t2">Leader of the Gang</string>
+    <string name="b1">Send to prison</string>
+    <string name="b2">Release</string>
+    <string name="menu_t">Lab 9</string>
+    
+
+</resources>

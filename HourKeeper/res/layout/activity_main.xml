@@ -1,0 +1,94 @@
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity" >
+
+    <EditText
+        android:id="@+id/userName"
+        android:inputType="textCapCharacters"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/userName"
+        />
+    <TableRow>
+    <Button
+    android:background="?android:attr/selectableItemBackground"    
+    android:id="@+id/btnStart" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/btnStart"
+         />
+    
+        <Button
+    android:background="?android:attr/selectableItemBackground"        
+    android:id="@+id/btnStop" 
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:text="@string/btnStop"
+         />
+        
+        </TableRow>
+      <TextView 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/hoursWorked"
+	    android:layout_marginTop="15sp"
+	    />
+	
+	<TextView 
+	    android:id="@+id/hoursWorked" 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	  	android:textSize="15sp"
+	  		    android:layout_marginTop="15sp"
+	  	
+	    />
+
+	
+		<TextView 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    android:text="@string/lastWorked"
+	    	  		    android:layout_marginTop="15sp"
+	    
+	    />
+			<TextView 
+	    android:id="@+id/lastHours" 
+	    android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	   android:textSize="15sp"
+	   	  		    android:layout_marginTop="15sp"
+	   
+	    />
+					<TextView 
+	       android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	    
+	      android:text="@string/totalHours"
+	    	  		    android:layout_marginTop="15sp"
+	    />
+					<TextView 
+					   android:id="@+id/totalHours"     
+	       android:layout_width="wrap_content"
+	    android:layout_height="wrap_content"
+	  android:textSize="15sp"
+	 	  		    android:layout_marginTop="15sp"
+	   
+	    />
+					
+
+						<Button
+						    android:id="@+id/btnPrevious"
+						    android:layout_width="match_parent"
+						    android:layout_height="match_parent"
+						    android:background="?android:attr/selectableItemBackground"
+						    android:text="@string/btnPrevious" />
+  
+					
+			
+</TableLayout>

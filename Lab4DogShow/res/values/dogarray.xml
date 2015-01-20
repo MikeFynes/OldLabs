@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="doggies">
+        <item>Border Terrier</item>
+        <item>Alaskan Malamute</item>
+        <item>Finnish Spitz</item>
+        <item>Portuguese Water Dog</item>
+        <item>Rottweiler</item>
+        <item>Beagle</item>
+        <item>Greyhound</item>
+        <item>Dachshund</item>
+    </string-array>
+
+</resources>

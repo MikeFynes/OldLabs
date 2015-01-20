@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">AALab1Start</string>
+    <string name="title_activity_list">ListAct</string>
+    <string name="dogtext">Dog image</string>
+
+</resources>
